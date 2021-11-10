@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I´m Victor 👋
+
+
+Hola mucho gusto soy, Victor Gelvis un profesional consiente desde el amor, que siempre doy mi mejor versión, generando cambio en los procesos a mi cargo y los optimizo permanentemente de forma sistémica a través del autoaprendizaje, soy proactivo en equipo y soy innovador con mis compañeros, siempre busco la excelencia para el éxito personal y para el éxito empresarial
 
 <!--
 **Ohtico/Ohtico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
