@@ -28,6 +28,6 @@
 
 <h2 align="center">Contacto</h2>
 
-<p align="center">¡Me encantaría conectarme contigo! No dudes en contactarme a través de [correo electrónico](mailto:tuemail@example.com) o [LinkedIn](https://www.linkedin.com/in/ohtico) para discutir oportunidades de colaboración, proyectos interesantes o simplemente para saludar. Estoy siempre abierto/a a nuevas conexiones y colaboraciones emocionantes.</p>
+<p align="center">¡Me encantaría conectarme contigo! No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/ohtico) para discutir oportunidades de colaboración, proyectos interesantes o simplemente para saludar. Estoy siempre abierto/a a nuevas conexiones y colaboraciones emocionantes.</p>
 
 <p align="center">¡Gracias por visitar mi perfil de GitHub!🚀 </p>
