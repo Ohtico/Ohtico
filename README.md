@@ -1,33 +1,105 @@
+<div align="center">
 
-<h1 align="center">Ohtico</h1>
+# 👋 Víctor Gelvis
+### Senior Front-end & AI Solutions Developer
 
-<p align="center">¡Hola! 👋 Bienvenido/a a mi perfil de GitHub. Aquí encontrarás una variedad de proyectos y contribuciones relacionadas con mis áreas de especialización en el desarrollo de aplicaciones web y móviles.</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ohtico)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vgelvisoviedo@gmail.com)
+[![Location](https://img.shields.io/badge/Bogotá,_Colombia-🇨🇴-green?style=for-the-badge)](https://maps.google.com/?q=Bogotá,Colombia)
 
-<p align="center">Estoy enfocado en tecnologías como ReactJS, React Native, JavaScript, TypeScript, y herramientas de prueba como Jest y Cypress. Además, tengo experiencia en la gestión de proyectos utilizando herramientas como ClickUp y Jira.</p>
+</div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/> <img src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png" alt="Cypress" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled-components" width="40" height="40"/> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/></p>
+---
 
-<h2 align="center">Acerca de Mí</h2>
+## 👨‍💻 Sobre mí
 
-<p align="center">Soy un desarrollador entusiasta y apasionado por crear experiencias de usuario excepcionales a través del desarrollo de software. Mi objetivo es utilizar mis habilidades para construir productos de alta calidad que satisfagan las necesidades del usuario y brinden soluciones innovadoras a los desafíos tecnológicos.</p>
+Desarrollador **Front-end Senior** con sólida experiencia en **React**, **React Native** y **TypeScript**. Me especializo en construir soluciones escalables que combinan desarrollo web moderno con **Inteligencia Artificial generativa** (LLMs) y servicios cloud de **AWS**. Apasionado por la intersección entre UX de alto impacto y arquitecturas inteligentes.
 
-<h2 align="center">Especialidades</h2>
+---
 
-<p align="center">
+## 🛠️ Stack Tecnológico
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50"/> 
-  <img src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png" alt="Cypress" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled-components" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="50" height="50"/>
-</p>
+### Core
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-<h2 align="center">Contacto</h2>
+### AI & Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
-<p align="center">¡Me encantaría conectarme contigo! No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/ohtico) para discutir oportunidades de colaboración, proyectos interesantes o simplemente para saludar. Estoy siempre abierto/a a nuevas conexiones y colaboraciones emocionantes.</p>
+### Styling
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p align="center">¡Gracias por visitar mi perfil de GitHub!🚀 </p>
+### Testing
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=C21325)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 💼 Experiencia Profesional
+
+### 🚀 Freelance Senior Front-end & AI Solutions Developer
+**Independent Contractor** · Remoto, Bogotá · *Jul 2025 – Presente*
+
+- 🤖 Diseño y desarrollo de un **Gestor de Agentes y Casos** tipo Call Center con flujos automatizados
+- 📞 Integración de **Amazon Connect** para gestión de voz/omnichannel y **AWS Cognito** para autenticación segura
+- 📊 Desarrollo de herramientas de **Análisis de Datos con IA** para procesar PDFs, imágenes y Excel
+- 🧠 Implementación de **agentes basados en Claude** y modelos de IA (Kiro), diseñando arquitecturas front-end para interacción eficiente con LLMs
+- ⚙️ Uso avanzado de **Prompt Engineering** y orquestación de modelos para resultados de negocio personalizados
+
+---
+
+### 💼 Front-end Developer MID
+**Rebus Technology** · Remoto, Bogotá · *Abr 2023 – Jul 2025*
+
+- 📱 Liderazgo en el desarrollo de **aplicaciones móviles React Native** para iOS y Android
+- ⚡ Implementación de componentes reutilizables de alto rendimiento mejorando UX
+- 🚀 Gestión técnica de lanzamientos en **App Store Connect** y **Google Play Console**
+- 🔗 Configuración de **deep linking** y atribución con Branch.io y notificaciones push segmentadas
+- ✅ Aseguramiento de calidad con pruebas unitarias (**Jest**) y E2E (**Cypress**)
+
+---
+
+### 💼 Front-end Developer
+**Technisupport S.A.S** · Bogotá · *Dic 2021 – Abr 2023*
+
+- 🧩 Desarrollo de interfaces modulares en **React.js** con gestión de estado complejo en Redux
+- 🎨 Colaboración con equipos UI/UX para transformar prototipos en productos funcionales y escalables
+
+---
+
+## 🌐 Idiomas
+
+| Idioma | Nivel |
+|--------|-------|
+| 🇪🇸 Español | Nativo |
+| 🇺🇸 Inglés | Básico |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ohtico&show_icons=true&theme=tokyonight&hide_border=true" alt="Victor's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohtico&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
+
+---
+
+<div align="center">
+
+*"La mejor arquitectura es la que el usuario nunca nota — solo siente."*
+
+⭐ Si alguno de mis proyectos te fue útil, considera dejar una estrella!
+
+</div>
